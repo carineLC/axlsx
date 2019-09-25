@@ -1,5 +1,5 @@
 module Axlsx
 
   # The current version
-  VERSION = "3.0.1.pre"
+  VERSION = "3.0.2.pre"
 end
