@@ -42,6 +42,7 @@ module Axlsx
   require 'axlsx/drawing/scatter_chart.rb'
   require 'axlsx/drawing/bubble_chart.rb'
   require 'axlsx/drawing/area_chart.rb'
+  require 'axlsx/drawing/radar_chart.rb'
 
   require 'axlsx/drawing/picture_locking.rb'
   require 'axlsx/drawing/pic.rb'
